@@ -1,0 +1,7 @@
+{
+  "snippets.ultisnips.pythonPrompt": false,
+  "coc.preferences.snippets.enableUltisnipsIntegration": true,
+  "suggest.triggerAfterInsertEnter": true,
+  "suggest.enablePreview": true,
+  "suggest.completeSingle": false
+}
